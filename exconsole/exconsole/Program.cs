@@ -10,6 +10,7 @@ namespace exconsole
     {
         static void Main(string[] args)
         {
+            console.writeline("a");
         }
     }
 }
