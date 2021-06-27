@@ -11,6 +11,7 @@ namespace exconsole
         static void Main(string[] args)
         {
             Console.WriteLine("ab");
+            Console.ReadLine();
         }
     }
 }
