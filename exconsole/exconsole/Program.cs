@@ -10,7 +10,7 @@ namespace exconsole
     {
         static void Main(string[] args)
         {
-            console.writeline("a");
+            Console.WriteLine("ab");
         }
     }
 }
